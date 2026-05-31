@@ -1,0 +1,4 @@
+pyautogui>=0.9.54
+pywin32>=300; sys_platform == 'win32'
+pytest>=7.0.0
+unittest2>=1.1.0
